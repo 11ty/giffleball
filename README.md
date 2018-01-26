@@ -1,4 +1,4 @@
-# giffleball
+# giffleball [![Build Status](https://travis-ci.org/11ty/giffleball.svg?branch=master)](https://travis-ci.org/11ty/giffleball)
 
 Giffleball is a web site for Gifs.
 
