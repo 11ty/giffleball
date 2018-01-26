@@ -1,0 +1,27 @@
+{
+  "name": "giffleball",
+  "version": "1.0.0",
+  "description": "Giffleball is a web site for Gifs.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "default": "npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/11ty/giffleball.git"
+  },
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11ty/giffleball/issues"
+  },
+  "homepage": "https://github.com/11ty/giffleball#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.2.11",
+    "file-size": "^1.0.0"
+  }
+}
